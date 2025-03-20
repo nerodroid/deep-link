@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.alex.crockfit",
+      "sha256_cert_fingerprints": [
+        "0A:32:3F:27:F8:CB:E2:86:08:42:C7:25:F0:C3:6A:5C:DF:7A:9F:FC:19:A8:DD:59:4E:59:AF:A8:29:65:5E:FD"
+      ]
+    }
+  }
+]
